@@ -2,7 +2,7 @@
   "name": "Class A Shield",
   "description" : "Forms a continually regenerating protective energy shield around the vessel.",
   "images": {
-    "thumbnail": ".../ship/composant/shield-thumb.png",
+    "thumbnail": "../../composant/shield-thumb.png"
   },
   "price": 1,
   "properties": "30% stronger than the default shield"
