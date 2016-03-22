@@ -1,0 +1,9 @@
+{
+  "name": "Lightweight alloys hull",
+  "description" : "Standard protection against all types of attack.",
+  "images": {
+    "thumbnail": ".../ship/composant/hull-thumb.png",
+  },
+  "price": 1,
+  "properties": "10% damage reduction against thermal and kinetic damage"
+}
